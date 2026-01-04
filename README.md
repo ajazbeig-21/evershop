@@ -62,7 +62,7 @@ Password: 123456
 
 ## Support
 
-If you like my work, feel free to:
+If you like my work, feel free to do below stuffs:
 
 - ⭐ this repository. It helps.
 - [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)][tweet] about EverShop. Thank you!
